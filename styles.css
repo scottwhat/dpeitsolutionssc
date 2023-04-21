@@ -1,0 +1,7 @@
+body {
+    background-color: blue;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
